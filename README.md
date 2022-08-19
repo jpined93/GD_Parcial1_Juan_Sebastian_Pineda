@@ -2,15 +2,15 @@
 
 ¿Qué tipo de variables tiene el dataset? Detalle el tipo de variable de cada
 columna
- <br />
-gender variable cualitativa nominal <br />
-race/ethnicity  variable cualitativa nominal <br />
-parental level of education    variable cualitativa ordinal <br />
-lunch                          variable cualitativa ordinal <br />
-test preparation course        variable cualitativa nominal <br />
-math score                      variable cuantitativa discreta <br />
-reading score                   variable cuantitativa discreta <br />
-writing score                   variable cuantitativa discreta <br />
+<br />
+gender variable cualitativa nominal <br /><br />
+race/ethnicity  variable cualitativa nominal <br /><br />
+parental level of education    variable cualitativa ordinal <br /><br />
+lunch                          variable cualitativa ordinal <br /><br />
+test preparation course        variable cualitativa nominal <br /><br />
+math score                      variable cuantitativa discreta <br /><br />
+reading score                   variable cuantitativa discreta <br /><br />
+writing score                   variable cuantitativa discreta <br /><br />
  <br />
  <br />
 ¿Qué tipo de problemas de calidad de datos logra identificar? Defina e
