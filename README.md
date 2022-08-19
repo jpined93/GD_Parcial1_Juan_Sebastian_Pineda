@@ -11,13 +11,27 @@ test preparation course        variable cualitativa nominal <br />
 math score                      variable cuantitativa discreta <br />
 reading score                   variable cuantitativa discreta <br />
 writing score                   variable cuantitativa discreta <br />
-
+ <br />
  <br />
 ¿Qué tipo de problemas de calidad de datos logra identificar? Defina e
 implemente las estrategias de limpieza de datos que correspondan.
  <br />
 No se encuentran problemas de valores faltanes ni incongruentes 
  <br />
+ <br />
 ¿En qué asignatura en promedio los estudiantes obtuvieron un mejor puntaje?
+ <br />
+  <br />
+  De acuerdo al promedio los estudiantes tienen un mejor desempeño en la asignatura reading de acuerdo al score promedio 69.169, en comparación con el obtenido en math 66.089 y writting 68.054.
+ <br />
 ¿Hay evidencia de algún sesgo en la distribución de dichos puntajes?
  <br />
+ Podemos ver un sesgo basados en el valor de la mediana y de manera visual usando un histograma.Donde puntualmente para los scores hay un sesgo importante hacia la derecha.
+  <br />
+¿Existe alguna correlación entre los puntajes obtenidos en las tres asignaturas?
+   <br />
+Existe un correlación positiva considerable entre los scores de las 3 asignaturas siendo la de mayor valor entre writting y reading con 0.95
+<br />
+<br />
+
+  
