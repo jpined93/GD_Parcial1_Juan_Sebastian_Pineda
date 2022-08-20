@@ -45,7 +45,8 @@ Otra caracteristica importante es las medidas de dispersión donde para las obse
 <br />
 <br />
 Esto impacta el score promedio de cada genero, encontrando que para el genero masculino esta en 68.7 y para el femenino en 63.6
-
+<br />
+<br />
 6. ¿Qué nivel de escolaridad tienen los padres de los estudiantes que obtuvieron
 un puntaje por encima del percentil 85 en la asignatura de escritura? ¿Cómo se
 distribuye la escolaridad entre esta población?.
